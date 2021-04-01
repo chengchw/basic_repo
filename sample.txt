@@ -1,0 +1,5 @@
+use git clone to clone the code from remote repository
+use push to puch the change into the remote repository
+there is much more thing need to learn
+
+int a = 52;
